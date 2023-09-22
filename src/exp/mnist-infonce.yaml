@@ -1,0 +1,10 @@
+program: main_infonce.py
+batch_size: 256
+data_dir: /data
+dataset: biased-mnist_0.999
+epochs: 80
+epsilon: 0
+lr: 0.001
+lr_decay: step
+lr_decay_epochs: 26,53
+model: simpleconvnet

@@ -13,6 +13,9 @@ Many datasets are biased, namely they contain easy-to-learn features that are hi
 
 # Running
 
+For contrastive learning baselines (Sec. 4.1): [https://github.com/EIDOSLAB/unbiased-contrastive-learning/tree/master/contrastive](https://github.com/EIDOSLAB/unbiased-contrastive-learning/tree/master/contrastive)
+
+For debiasing experiments (Sec. 4.2): [https://github.com/EIDOSLAB/unbiased-contrastive-learning/tree/master/debiasing](https://github.com/EIDOSLAB/unbiased-contrastive-learning/tree/master/debiasing)
 
 # Citing
 
